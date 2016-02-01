@@ -1,7 +1,7 @@
 - `data/`
     - `parsed/`
         - `brazil/`
-            - `brazil-microcephaly-2016-01-230-table-1.csv`
+            - `brazil-microcephaly-2016-01-23-table-1.csv`
                 - Source: `pdfs/brazil/brazil-microcephaly-2016-01-23.pdf`, Table 1.
                 - Description: Reported cases of microcephaly and/or malformations of the central nervous system suggestive of congenital infection in fetuses, abortions, stillbirths, or live births; by state.
         - `cdc/`
