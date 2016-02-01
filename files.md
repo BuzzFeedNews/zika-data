@@ -1,0 +1,68 @@
+- `data/`
+    - `parsed/`
+        - `brazil/`
+            - `brazil-microcephaly-2016-01-230-table-1.csv`
+                - Source: `pdfs/brazil/brazil-microcephaly-2016-01-23.pdf`, Table 1.
+                - Description: Reported cases of microcephaly and/or malformations of the central nervous system suggestive of congenital infection in fetuses, abortions, stillbirths, or live births; by state.
+        - `cdc/`
+            - `cdc-active-transmission-countries.txt`
+                - Source: `http://www.cdc.gov/zika/geo/index.html`
+                - Description: Countries and territories with active Zika virus transmission.
+        - `colombia/`
+            - `colombia-2016-01-22.csv`
+                - Source: `pdfs/colombia/colombia-2016-01-22.pdf`
+                - Description: Samples received by Colombia's national institute of health for Zika virus testing; by territory/department.
+
+- `pdfs/`
+    - `brazil/`
+        - `brazil-microcephaly-2015-11-21.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2015/novembro/24/COES-Microcefalias---Informe-Epidemiol--gico---SE-46---24nov2015.pdf
+            - Published: 2015-11-24
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2015-11-28.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2015/novembro/30/coes-microcefalias---informe-epidemiol--gico---se-47.pdf 
+            - Published: 2015-11-30
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2015-12-05.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2015/dezembro/08/COES-Microcefalias---Informe-Epidemiol--gico---SE-48---08dez2015.pdf
+            - Published: 2015-12-08
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2015-12-12.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2015/dezembro/15/COES-Microcefalias---Informe-Epidemiol--gico---SE-49---15dez2015---10h.pdf
+            - Published: 2015-12-15
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2015-12-19.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2015/dezembro/28/coes-microcefalias-informe-epidemiologico-se50-21dez2015-18h.pdf
+            - Published: 2015-12-28
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2015-12-26.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2015/dezembro/30/COES-Microcefalias---Informe-Epidemiol--gico---SE-51---29dez2015---15h.pdf
+            - Published: 2015-12-30
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2016-01-02.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2016/janeiro/05/COES-Microcefalias---Informe-Epidemiol--gico-07---SE-52---04jan2016.pdf
+            - Published: 2016-01-05
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2016-01-09.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2016/janeiro/13/COES-Microcefalias---Informe-Epidemiol--gico-08---SE-01-2016---Valida----o-12jan2016---VALIDADO-PELO-CLAUDIO--e-com-os-estados-por-webconfer--n.pdf
+            - Published: 2016-01-13
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2016-01-16.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2016/janeiro/21/COES-Microcefalias---Informe-Epidemiol--gico-SE-02-2016.pdf
+            - Published: 2016-01-21
+            - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2016-01-23.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2016/janeiro/28/COES-Microcefalias---Informe-Epidemiol--gico-10---SE-03-2016---26jan2016---20h34.pdf
+            - Published: 2016-01-28
+            - Downloaded: 2016-01-29
+    - `colombia/`
+        - `colombia-2016-01-22.pdf`
+            - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika.pdf
+            - Published: 2016-01-28
+            - Downloaded: 2016-01-29
+    - `us/`
+        - `ca/`
+            - `ca-confirmed-cases-2016-01-29.pdf`
+                - Source: https://www.cdph.ca.gov/HealthInfo/discond/Documents/TravelAssociatedCasesofZikaVirusinCA.pdf
+                - Published: 2016-01-29
+                - Downloaded: 2016-01-31
