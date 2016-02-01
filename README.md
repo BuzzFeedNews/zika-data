@@ -20,6 +20,8 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - The Pan American Health Organization is maintaining a [similiar list](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11603&Itemid=41696).
 
+- The World Health Organization is not yet publishing structured data, but publishes a [page of Zika outbreak news](http://www.who.int/csr/don/archive/disease/zika-virus-infection/en/).
+
 #### Mosquitoes
 
 [Per the WHO](http://www.who.int/csr/disease/zika/en/), "Zika virus is transmitted to people through the bite of an infected mosquito from the Aedes genus, mainly Aedes aegypti in tropical regions. This is the same mosquito that transmits dengue, chikungunya and yellow fever."
@@ -60,7 +62,7 @@ In the meantime, Scientific American is collecting unstructured data (e.g., news
 
 ## Acknowledgements
 
-Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi).
+Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi) and [@benparkergit](https://github.com/benparkergit).
 
 ## Suggestions or Questions?
 
