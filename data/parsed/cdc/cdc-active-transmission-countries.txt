@@ -2,6 +2,9 @@ Barbados
 Bolivia
 Brazil
 Colombia
+Commonwealth of Puerto Rico, US territory
+Costa Rica
+Curacao
 Dominican Republic
 Ecuador
 El Salvador
@@ -13,12 +16,13 @@ Haiti
 Honduras
 Martinique
 Mexico
+Nicaragua
 Panama
 Paraguay
-Puerto Rico
 Saint Martin
 Suriname
 U.S. Virgin Islands
 Venezuela
+American Samoa
 Samoa
 Cape Verde
