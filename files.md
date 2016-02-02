@@ -15,7 +15,10 @@
         - `colombia/`
             - `colombia-2016-01-22.csv`
                 - Source: `pdfs/colombia/colombia-2016-01-22.pdf`
-                - Description: Samples received by Colombia's national institute of health for Zika virus testing; by territory/department.
+                - Description: Samples received by Colombia's national institute of health for Zika virus testing; by territory/department between 2015-09-01 and 2016-01-29.
+            - `colombia-2016-01-29.csv`
+                - Source: `pdfs/colombia/colombia-2016-01-29.pdf`
+                - Description: Samples received by Colombia's national institute of health for Zika virus testing; by territory/department between 2015-09-01 and 2016-01-29.
 
 - `pdfs/`
     - `brazil/`
@@ -64,6 +67,11 @@
             - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika.pdf
             - Published: 2016-01-28
             - Downloaded: 2016-01-29
+    - `colombia/`
+        - `colombia-2016-01-29.pdf`
+            - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf
+            - Published: 2016-02-01
+            - Downloaded: 2016-02-02
     - `us/`
         - `ca/`
             - `ca-confirmed-cases-2016-01-29.pdf`
