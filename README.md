@@ -24,12 +24,17 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - The World Health Organization is not yet publishing structured data, but publishes a [page of Zika outbreak news](http://www.who.int/csr/don/archive/disease/zika-virus-infection/en/).
 
+- HealthMap.org is [mapping news and social-media alerts](http://www.healthmap.org/zika/) about Zika.
+
+- Wikipedia's [page on the outbreak](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_\(2015%E2%80%93present\)) includes a referenced table of confirmed case counts since April 2015, by country.
+
 #### Mosquitoes
 
 [Per the WHO](http://www.who.int/csr/disease/zika/en/), "Zika virus is transmitted to people through the bite of an infected mosquito from the Aedes genus, mainly Aedes aegypti in tropical regions. This is the same mosquito that transmits dengue, chikungunya and yellow fever."
 
-- [The global compendium of *Aedes aegypti* and *Ae. albopictus* occurrence](http://www.nature.com/articles/sdata201535). Published 2015-07-07 in *Nature Scientific Data*.
+- [The global compendium of *Aedes aegypti* and *Ae. albopictus* occurrence](http://www.nature.com/articles/sdata201535). [Data, as CSV files, available here](http://datadryad.org/resource/doi:10.5061/dryad.47v3c). Published 2015-07-07 in *Nature Scientific Data*.
     - "A global geographic database of known occurrences of *Ae. aegypti* and *Ae. albopictus* between 1960 and 2014 [...] derived from peer-reviewed literature and unpublished studies including national entomological surveys and expert networks. [...] This is the first comprehensive global database of *Ae. aegypti* and *Ae. albopictus* occurrence, consisting of 19,930 and 22,137 geo-positioned occurrence records respectively."
+
 
 ## Country-Specific Data
 
