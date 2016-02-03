@@ -21,6 +21,10 @@
             - `colombia-2016-01-29.csv`
                 - Source: `pdfs/colombia/colombia-2016-01-29.pdf`
                 - Description: Samples received by Colombia's national institute of health for Zika virus testing; by territory/department between 2015-09-01 and 2016-01-29.
+        - `ecdc/`
+            - `ecdc-active-transmission-countries.csv`
+                - Source: `http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/Pages/Zika-countries-with-transmission.aspx`
+                - Description: Countries and territories with local Zika virus transmission.
 
 - `pdfs/`
     - `brazil/`

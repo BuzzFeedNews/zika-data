@@ -20,6 +20,8 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - The Pan American Health Organization is maintaining a [similiar list](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11603&Itemid=41696).
 
+- The European Centre for Disease Prevention and Control is tracking [countries and territories with local Zika transmission](http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/Pages/Zika-countries-with-transmission.aspx) and classifying them into several categories.
+
 - The World Health Organization is not yet publishing structured data, but publishes a [page of Zika outbreak news](http://www.who.int/csr/don/archive/disease/zika-virus-infection/en/).
 
 #### Mosquitoes
@@ -62,7 +64,7 @@ In the meantime, Scientific American is collecting unstructured data (e.g., news
 
 ## Acknowledgements
 
-Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi) and [@benparkergit](https://github.com/benparkergit).
+Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi), [@benparkergit](https://github.com/benparkergit), and [@pushthings4ward](https://github.com/pushthings4ward).
 
 ## Suggestions or Questions?
 
