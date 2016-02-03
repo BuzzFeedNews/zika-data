@@ -69,7 +69,7 @@ In the meantime, Scientific American is collecting unstructured data (e.g., news
 
 ## Acknowledgements
 
-Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi), [@benparkergit](https://github.com/benparkergit), and [@pushthings4ward](https://github.com/pushthings4ward).
+Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi), [@benparkergit](https://github.com/benparkergit), [@pushthings4ward](https://github.com/pushthings4ward), and [Matt Osborn](https://github.com/mattosborn).
 
 ## Suggestions or Questions?
 
