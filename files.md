@@ -62,6 +62,10 @@
             - Source: http://portalsaude.saude.gov.br/images/pdf/2016/janeiro/28/COES-Microcefalias---Informe-Epidemiol--gico-10---SE-03-2016---26jan2016---20h34.pdf
             - Published: 2016-01-28
             - Downloaded: 2016-01-29
+        - `brazil-microcephaly-2016-01-30.pdf`
+            - Source: http://portalsaude.saude.gov.br/images/pdf/2016/fevereiro/02/COES-Microcefalias---Informe-Epidemiol--gico-11---SE-04-2016---02jan2016---18h51-VDP.pdf
+            - Published: 2016-02-02
+            - Downloaded: 2016-02-03
     - `colombia/`
         - `colombia-2016-01-22.pdf`
             - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika.pdf
