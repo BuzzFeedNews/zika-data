@@ -21,6 +21,15 @@
             - `colombia-2016-01-29.csv`
                 - Source: `pdfs/colombia/colombia-2016-01-29.pdf`
                 - Description: Samples received by Colombia's national institute of health for Zika virus testing; by territory/department between 2015-09-01 and 2016-01-29.
+            - `colombia-municipal-2016-01-09.csv`
+                - Source: `pdfs/colombia/colombia-municipal-2016-01-09.pdf`
+                - Description: Zika case counts, by municipality and confirmation status, through 2016's epidemiological week #1.
+            - `colombia-municipal-2016-01-16.csv`
+                - Source: `pdfs/colombia/colombia-municipal-2016-01-16.pdf`
+                - Description: Zika case counts, by municipality and confirmation status, through 2016's epidemiological week #2.
+            - `colombia-municipal-2016-01-23.csv`
+                - Source: `pdfs/colombia/colombia-municipal-2016-01-23.pdf`
+                - Description: Zika case counts, by municipality and confirmation status, through 2016's epidemiological week #3.
         - `ecdc/`
             - `ecdc-active-transmission-countries.csv`
                 - Source: `http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/Pages/Zika-countries-with-transmission.aspx`
@@ -82,6 +91,18 @@
             - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf
             - Published: 2016-02-01
             - Downloaded: 2016-02-02
+        - `colombia-municipal-2016-01-09.pdf`
+            - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf
+            - Published: 2016-01-29
+            - Downloaded: 2016-02-04
+        - `colombia-municipal-2016-01-16.pdf`
+            - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf
+            - Published: 2016-01-29
+            - Downloaded: 2016-02-04
+        - `colombia-municipal-2016-01-23.pdf`
+            - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf
+            - Published: 2016-02-02
+            - Downloaded: 2016-02-04
     - `us/`
         - `ca/`
             - `ca-confirmed-cases-2016-01-29.pdf`

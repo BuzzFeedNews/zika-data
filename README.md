@@ -44,7 +44,9 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 #### Colombia
 
-- Colombia's national institute of health is publishing [Zika-related reports](http://www.ins.gov.co/Noticias/ZIKA/Forms/AllItems.aspx), including regional counts of suspected Zika samples sent to the agency for testing. The [latest covers 2015-09-01 through 2016-01-29](http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf).
+- Colombia's national institute of health is publishing [Zika-related reports](http://www.ins.gov.co/Noticias/ZIKA/Forms/AllItems.aspx), including regional counts of suspected Zika samples sent to the agency for testing, and case counts by municipality.
+    - The [latest regional data](http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf) covers 2015-09-01 through 2016-01-29.
+    - The [latest municipal data](http://www.ins.gov.co/Noticias/ZIKA/CONTEO%20CASOS%20ZIKA%20MUNICIPIOS%20SE%2003%202016.pdf) through the third epidemiological week of 2016, which ended 2016-01-23. __Note:__ The national totals in this data *seem* to be [a few cases higher than the sum of the municipal cases](../../issues/6).
 
 
 #### United States
