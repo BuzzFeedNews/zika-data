@@ -18,7 +18,7 @@ def scrape():
     table = dom.cssselect(".ms-rteTable-1")[0]
     rows = table.cssselect("tr")[1:]
     data = [ [ td.text_content()
-        for td in tr.cssselect("td") ]
+        for td in tr.cssselect("td, th") ]
             for tr in rows ]
     df = pd.DataFrame(data, columns=columns)
     return df
