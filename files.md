@@ -6,7 +6,7 @@
                 - Description: Reported cases of microcephaly and/or malformations of the central nervous system suggestive of congenital infection in fetuses, abortions, stillbirths, or live births; by state.
             - `brazil-microcephaly-2016-01-23-table-2.csv`
                 - Source: `pdfs/brazil/brazil-microcephaly-2016-01-23.pdf`, Table 2.
-                - Description: "Typical" and Zika-positive confirmed cases of microcephaly and/or malformations of the central nervous system suggestive of congenital infection; by state.
+                - Description: Cases of microcephaly and/or malformations of the central nervous system where the malformations were suggestive of congenital infection, and cases laboratory-confirmed for Zika virus; by state.
             - `brazil-microcephaly-2016-01-30-table-1.csv`
                 - Source: `pdfs/brazil/brazil-microcephaly-2016-01-30.pdf`, Table 1.
                 - Description: Reported cases of microcephaly and/or malformations of the central nervous system suggestive of congenital infection in fetuses, abortions, stillbirths, or live births; by state.
