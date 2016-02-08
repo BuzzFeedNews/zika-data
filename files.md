@@ -30,6 +30,9 @@
             - `colombia-municipal-2016-01-23.csv`
                 - Source: `pdfs/colombia/colombia-municipal-2016-01-23.pdf`
                 - Description: Zika case counts, by municipality and confirmation status, through 2016's epidemiological week #3.
+            - `colombia-municipal-2016-01-30.csv`
+                - Source: `pdfs/colombia/colombia-municipal-2016-01-30.pdf`
+                - Description: Zika case counts, by municipality and confirmation status, through 2016's epidemiological week #4.
         - `ecdc/`
             - `ecdc-active-transmission-countries.csv`
                 - Source: `http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/Pages/Zika-countries-with-transmission.aspx`
@@ -106,6 +109,10 @@
             - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-02.pdf
             - Published: 2016-02-02
             - Downloaded: 2016-02-04
+        - `colombia-municipal-2016-01-23.pdf`
+            - Source: http://www.ins.gov.co/Noticias/ZIKA/CONTEO%20CASOS%20ZIKA%20MUNICIPIOS%20SE%2004%202016.pdf
+            - Published: 2016-02-08
+            - Downloaded: 2016-02-09
     - `us/`
         - `ca/`
             - `ca-confirmed-cases-2016-01-29.pdf`
