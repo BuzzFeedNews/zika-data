@@ -6,10 +6,16 @@ import sys
 
 URL = "http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/Pages/Zika-countries-with-transmission.aspx"
 
-columns = [
+columns_old = [
     "country",
     "affected_past_nine_months",
     "affected_past_two_months"
+]
+
+columns_new = [
+    "country",
+    "affected_past_two_months",
+    "affected_past_nine_months"
 ]
 
 def scrape():
@@ -20,7 +26,7 @@ def scrape():
     data = [ [ td.text_content()
         for td in tr.cssselect("td, th") ]
             for tr in rows ]
-    df = pd.DataFrame(data, columns=columns)
+    df = pd.DataFrame(data, columns=columns_new)[columns_old]
     return df
 
 if __name__ == "__main__":
