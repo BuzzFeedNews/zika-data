@@ -14,6 +14,12 @@
             - `cdc-active-transmission-countries.txt`
                 - Source: `http://www.cdc.gov/zika/geo/index.html`
                 - Description: Countries and territories with active Zika virus transmission.
+            - `cdc-state-case-counts-2016-02-03.csv`
+                - Source: `http://www.cdc.gov/zika/geo/united-states.html`
+                - Description: "Laboratory-confirmed Zika virus disease cases reported to ArboNET by state or territory — United States, 2015–2016 (as of February 3, 2016)."
+            - `cdc-state-case-counts-latest.csv`
+                - Source: `http://www.cdc.gov/zika/geo/united-states.html`
+                - Description: "Laboratory-confirmed Zika virus disease cases reported to ArboNET by state or territory — United States, 2015–2016" — most recent archived/available.
         - `colombia/`
             - `colombia-2016-01-22.csv`
                 - Source: `pdfs/colombia/colombia-2016-01-22.pdf`

@@ -16,7 +16,7 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 #### Zika Virus
 
-- The Centers for Disease Control and Prevention (CDC) is maintaining a list of "[Countries and territories with active Zika virus transmission](http://www.cdc.gov/zika/geo/index.html)."
+- The Centers for Disease Control and Prevention (CDC) is maintaining a list of "[Countries and territories with active Zika virus transmission](http://www.cdc.gov/zika/geo/active-countries.html)."
 
 - The Pan American Health Organization is maintaining a [similiar list](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11603&Itemid=41696).
 
@@ -51,7 +51,9 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 #### United States
 
-Not many U.S. states are currently publishing structured data on Zika. But some do maintain Zika information pages, which might contain relevant data in the future. A partial list:
+The CDC is keeping a list of "[laboratory-confirmed Zika virus disease cases reported to ArboNET by [U.S.] state or territory](http://www.cdc.gov/zika/geo/united-states.html)".
+
+Not many individual U.S. states are currently publishing structured data on Zika. But some do maintain Zika information pages, which might contain relevant data in the future. A partial list:
 
 - California
     - [Information page](https://www.cdph.ca.gov/HealthInfo/discond/Pages/Zika.aspx)
