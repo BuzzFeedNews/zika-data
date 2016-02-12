@@ -23,7 +23,7 @@ def scrape():
     dom = lxml.html.fromstring(html)
     table = dom.cssselect(".ms-rteTable-1")[0]
     rows = table.cssselect("tr")[1:]
-    data = [ [ td.text_content()
+    data = [ [ td.text_content().strip()
         for td in tr.cssselect("td, th") ]
             for tr in rows ]
     df = pd.DataFrame(data, columns=columns_new)[columns_old]
