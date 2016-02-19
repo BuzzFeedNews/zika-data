@@ -1,17 +1,17 @@
 country,affected_past_nine_months,affected_past_two_months
 American Samoa,Yes,Increasing or widespread transmission
-​Aruba,​Yes,​Sporadic transmission following recent introduction
+Aruba,Yes,Sporadic transmission following recent introduction
 Barbados,Yes,Increasing or widespread transmission
 Bolivia,Yes,Sporadic transmission following recent introduction
-​Bonaire,​Yes,​Sporadic transmission following recent introduction
 Brazil,Yes,Increasing or widespread transmission
+Bonaire,Yes,Sporadic transmission following recent introduction
 Cape Verde,Yes,Increasing or widespread transmission
 Colombia,Yes,Increasing or widespread transmission
 Costa Rica,Yes,Sporadic transmission following recent introduction
 Curaçao,Yes,Increasing or widespread transmission
 Dominican Republic,Yes,Increasing or widespread transmission
 Ecuador,Yes,Increasing or widespread transmission
-El Salvador,Yes,Increasing or widespread transmission
+El salvador,Yes,Increasing or widespread transmission
 Fiji,Yes,No
 French Guiana,Yes,Increasing or widespread transmission
 Guadeloupe,Yes,Increasing or widespread transmission
@@ -21,6 +21,7 @@ Haiti,Yes,Increasing or widespread transmission
 Honduras,Yes,Increasing or widespread transmission
 Jamaica,Yes,Sporadic transmission following recent introduction
 Maldives,Yes,No
+Marshall Islands,Yes,Sporadic transmission following recent introduction
 Martinique,Yes,Increasing or widespread transmission
 Mexico,Yes,Increasing or widespread transmission
 New Caledonia,Yes,No
@@ -33,7 +34,8 @@ Samoa,Yes,Increasing or widespread transmission
 Solomon Islands,Yes,No
 Suriname,Yes,Increasing or widespread transmission
 Thailand,Yes,Sporadic transmission following recent introduction
-Venezuela,Yes,Increasing or widespread transmission
 Tonga,Yes,Increasing or widespread transmission
+Trinidad and Tobago,Yes,Sporadic transmission following recent introduction
 Vanuatu,Yes,No
-Virgin islands (US),Yes,Sporadic transmission following recent introduction
+Venezuela,Yes,Increasing or widespread transmission
+US Virgin Islands,Yes,Sporadic transmission following recent introduction
