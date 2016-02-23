@@ -41,7 +41,10 @@ def parse(pdf):
 
     data = pdfplumber.utils.extract_columns(data_chars, x_tolerance=1, y_tolerance=1)
 
-    data.columns = COLUMNS
+    if len(data.columns) == 6:
+        data.columns = COLUMNS
+    else:
+        data.columns = [ "sivigila_code" ] + COLUMNS
     data = data.drop_duplicates().reset_index(drop=True)
     data[INT_COLS] = data[INT_COLS].astype(int)
     data["department"] = data["department"].str.strip().str.upper().apply(lambda x: DEPT_FIXES.get(x, x))
