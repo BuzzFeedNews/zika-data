@@ -40,7 +40,7 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 #### Brazil
 
-- Brazil's health ministry is publishing [reports on Zika and microcephaly](http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-mais-o-ministerio/197-secretaria-svs/20799-microcefalia). The [latest report](http://portalsaude.saude.gov.br/images/pdf/2016/fevereiro/17/coes-microcefalia-inf-epi-13-se06-2016.pdf) covers through 2016-02-13.
+- Brazil's health ministry is publishing [reports on Zika and microcephaly](http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-mais-o-ministerio/197-secretaria-svs/20799-microcefalia). The [latest report](http://portalsaude.saude.gov.br/images/pdf/2016/fevereiro/23/coes-microcefalia-informe-epidemiologico14-se07-2016-fev2016-14.pdf) covers through 2016-02-20.
 
 #### Colombia
 
