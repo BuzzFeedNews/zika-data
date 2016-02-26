@@ -54,23 +54,9 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 #### United States
 
-The CDC is keeping a list of "[laboratory-confirmed Zika virus disease cases reported to ArboNET by [U.S.] state or territory](http://www.cdc.gov/zika/geo/united-states.html)".
+- The CDC is keeping a list of "[laboratory-confirmed Zika virus disease cases reported to ArboNET by [U.S.] state or territory](http://www.cdc.gov/zika/geo/united-states.html)".
 
-Not many individual U.S. states are currently publishing structured data on Zika. But some do maintain Zika information pages, which might contain relevant data in the future. A partial list:
-
-- California
-    - [Information page](https://www.cdph.ca.gov/HealthInfo/discond/Pages/Zika.aspx)
-    - ["Travel-Associated Cases of Zika Virus in California"](https://www.cdph.ca.gov/HealthInfo/discond/Documents/TravelAssociatedCasesofZikaVirusinCA.pdf), updated every Friday.
-
-- Florida
-    - [Information page](http://www.floridahealth.gov/diseases-and-conditions/zika-virus/index.html?utm_source=flhealthIndex)
-
-- Virginia
-    - [Information page](http://www.vdh.virginia.gov/epidemiology/Zika/index.htm)
-
-- Texas
-    - [Information page](https://www.dshs.state.tx.us/idcu/disease/arboviral/zika/)
-    - [News updates](https://www.dshs.state.tx.us/news/updates.shtm)
+- California's Department of Public Health is publishing a weekly PDF of ["Travel-Associated Cases of Zika Virus in California"](https://www.cdph.ca.gov/HealthInfo/discond/Documents/TravelAssociatedCasesofZikaVirusinCA.pdf), updated every Friday.
 
 ## Additional Resources
 
