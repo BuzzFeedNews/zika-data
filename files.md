@@ -154,6 +154,31 @@
             - Source: http://www.ins.gov.co/Noticias/ZIKA/CONTEO%20CASOS%20ZIKA%20MUNICIPIOS%20SE%2006%202016.pdf
             - Published: 2016-02-23
             - Downloaded: 2016-02-23
+    - `mexico/`
+        - `mexico-bulletin-2016-01-09.pdf`
+            - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE01.pdf
+            - Published: ?
+            - Downloaded: 2016-02-26
+        - `mexico-bulletin-2016-01-16.pdf`
+            - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE02.pdf
+            - Published: ?
+            - Downloaded: 2016-02-26
+        - `mexico-bulletin-2016-01-23.pdf`
+            - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE03.pdf
+            - Published: ?
+            - Downloaded: 2016-02-26
+        - `mexico-bulletin-2016-01-30.pdf`
+            - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE04.pdf
+            - Published: ?
+            - Downloaded: 2016-02-26
+        - `mexico-bulletin-2016-02-06.pdf`
+            - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE05.pdf
+            - Published: ?
+            - Downloaded: 2016-02-26
+        - `mexico-bulletin-2016-02-13.pdf`
+            - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE06.pdf
+            - Published: ?
+            - Downloaded: 2016-02-26
     - `us/`
         - `ca/`
             - `ca-confirmed-cases-2016-01-29.pdf`

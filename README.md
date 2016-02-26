@@ -10,6 +10,7 @@ This repository contains data — and pointers to data — related to the 2015�
 - [Country-Specific Data](#country-specific-data)
     - [Brazil](#brazil)
     - [Colombia](#colombia)
+    - [Mexico](#mexico)
     - [United States](#united-states)
 - [Additional Resources](#additional-resources)
 
@@ -51,6 +52,9 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
     - The [latest regional data](http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-03.pdf) covers 2015-09-01 through 2016-02-02.
     - The [latest municipal data](http://www.ins.gov.co/Noticias/ZIKA/CONTEO%20CASOS%20ZIKA%20MUNICIPIOS%20SE%2006%202016.pdf) through the 6th epidemiological week of 2016, which ended 2016-02-13. __Note:__ The national totals in this data [*seem* to be a few cases higher than the sum of the municipal cases](../../issues/6).
 
+#### Mexico
+
+- Mexico's Ministry of Health publishes [weekly epidemiological bulletins](http://www.epidemiologia.salud.gob.mx/dgae/boletin/intd_boletin.html), which contain data on Zika cases. The [latest report](http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE06.pdf) covers through the 6th epidemiological week of 2016, which ended 2016-02-13.
 
 #### United States
 
