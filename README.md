@@ -11,6 +11,7 @@ This repository contains data — and pointers to data — related to the 2015�
     - [Brazil](#brazil)
     - [Colombia](#colombia)
     - [United States](#united-states)
+- [Additional Resources](#additional-resources)
 
 This repository also contains [archived PDFs](pdfs/) and [data extracted from the resources below](data/parsed). For a full list of files, [see `files.md`](files.md).
 
@@ -71,7 +72,11 @@ Not many individual U.S. states are currently publishing structured data on Zika
     - [Information page](https://www.dshs.state.tx.us/idcu/disease/arboviral/zika/)
     - [News updates](https://www.dshs.state.tx.us/news/updates.shtm)
 
-In the meantime, Scientific American is collecting unstructured data (e.g., news releases) from state health departments, and [mapping the known U.S. cases](http://www.scientificamerican.com/article/zika-virus-threatens-u-s-from-abroad1/).
+## Additional Resources
+
+- A team of public health researchers are [standardizing official Zika data from several countries](https://github.com/cdcepi/zika).
+
+- Scientific American [mapping the known U.S. cases](http://www.scientificamerican.com/article/zika-virus-threatens-u-s-from-abroad1/) and the locations where the virus in those cases was contracted.
 
 ## Acknowledgements
 
