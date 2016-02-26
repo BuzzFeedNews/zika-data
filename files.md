@@ -172,3 +172,7 @@
                 - Source: https://www.cdph.ca.gov/HealthInfo/discond/Documents/TravelAssociatedCasesofZikaVirusinCA.pdf
                 - Published: 2016-02-19
                 - Downloaded: 2016-02-22
+            - `ca-confirmed-cases-2016-02-26.pdf`
+                - Source: https://www.cdph.ca.gov/HealthInfo/discond/Documents/TravelAssociatedCasesofZikaVirusinCA.pdf
+                - Published: 2016-02-26
+                - Downloaded: 2016-02-26
