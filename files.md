@@ -201,3 +201,12 @@
                 - Source: https://www.cdph.ca.gov/HealthInfo/discond/Documents/TravelAssociatedCasesofZikaVirusinCA.pdf
                 - Published: 2016-02-26
                 - Downloaded: 2016-02-26
+        - `usvi/`
+            - `usvi-surveillance-report-2016-02-16.pdf`
+                - Source: http://www.healthvi.org/assets/documents/2016/021616_ZikaReport.pdf
+                - Published: ?
+                - Downloaded: 2016-02-27
+            - `usvi-surveillance-report-2016-02-23.pdf`
+                - Source: http://www.healthvi.org/assets/documents/2016/022316_ZikaReport.pdf
+                - Published: ?
+                - Downloaded: 2016-02-27

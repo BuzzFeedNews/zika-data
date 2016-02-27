@@ -62,6 +62,8 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 - California's Department of Public Health is publishing a weekly PDF of ["Travel-Associated Cases of Zika Virus in California"](https://www.cdph.ca.gov/HealthInfo/discond/Documents/TravelAssociatedCasesofZikaVirusinCA.pdf), updated every Friday.
 
+- The U.S. Virgin Islands Department of Health is publishing [weekly Zika surveillance reports](http://www.healthvi.org/topics/az/z/zika.html).
+
 ## Additional Resources
 
 - A team of public health researchers are [standardizing official Zika data from several countries](https://github.com/cdcepi/zika).
