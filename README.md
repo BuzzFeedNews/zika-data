@@ -72,7 +72,7 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 ## Acknowledgements
 
-Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi), [@benparkergit](https://github.com/benparkergit), [@pushthings4ward](https://github.com/pushthings4ward), and [Matt Osborn](https://github.com/mattosborn).
+Special thanks to [Torsten Wurm](https://twitter.com/thelonevirologi), [@benparkergit](https://github.com/benparkergit), [@pushthings4ward](https://github.com/pushthings4ward), [Matt Osborn](https://github.com/mattosborn), [Daniel Chen](https://github.com/chendaniely), [Daina Bouquin](https://github.com/dbouquin), and [@cdcepi](https://github.com/cdcepi/zika).
 
 ## Suggestions or Questions?
 
