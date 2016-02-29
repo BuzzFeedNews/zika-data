@@ -20,13 +20,13 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 #### Zika Virus
 
-- The Centers for Disease Control and Prevention (CDC) is maintaining a list of "[Countries and territories with active Zika virus transmission](http://www.cdc.gov/zika/geo/active-countries.html)."
-
-- The Pan American Health Organization is maintaining a [similiar list](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11603&Itemid=41696).
+- The Pan American Health Organization / World Health Organization is publishing [weekly counts of suspected and confirmed cases, by country and territory](http://ais.paho.org/phip/viz/ed_zika_epicurve.asp), as reported by each country. The data portal includes a few important notes:
+    - "The suspected cases in Brazil are unofficial (media monitoring)"
+    - "Data is shared in an effort to transparently disseminate available information reported by Member States. Any subsequent interpretation and analysis of this data should consider differences in surveillance systems and reporting requirements."
 
 - The European Centre for Disease Prevention and Control is tracking [countries and territories with local Zika transmission](http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/Pages/Zika-countries-with-transmission.aspx) and classifying them into several categories.
 
-- The World Health Organization is not yet publishing structured data, but publishes a [page of Zika outbreak news](http://www.who.int/csr/don/archive/disease/zika-virus-infection/en/).
+- The Centers for Disease Control and Prevention (CDC) is maintaining a list of "[Countries and territories with active Zika virus transmission](http://www.cdc.gov/zika/geo/active-countries.html)." The Pan American Health Organization is maintaining a [similiar list](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11603&Itemid=41696).
 
 - HealthMap.org is [mapping news and social-media alerts](http://www.healthmap.org/zika/) about Zika.
 
