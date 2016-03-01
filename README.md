@@ -54,7 +54,7 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 
 #### Mexico
 
-- Mexico's Ministry of Health publishes [weekly epidemiological bulletins](http://www.epidemiologia.salud.gob.mx/dgae/boletin/intd_boletin.html), which contain data on Zika cases. The [latest report](http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE06.pdf) covers through the 6th epidemiological week of 2016, which ended 2016-02-13.
+- Mexico's Ministry of Health publishes [weekly epidemiological bulletins](http://www.epidemiologia.salud.gob.mx/dgae/boletin/intd_boletin.html), which contain data on Zika cases. The [latest report](http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE07.pdf) covers through the 7th epidemiological week of 2016, which ended 2016-02-20.
 
 #### United States
 

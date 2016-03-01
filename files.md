@@ -188,6 +188,10 @@
             - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE06.pdf
             - Published: ?
             - Downloaded: 2016-02-26
+        - `mexico-bulletin-2016-02-20.pdf`
+            - Source: http://www.epidemiologia.salud.gob.mx/doctos/boletin/2016/BOL-EPID-2016-SE07.pdf
+            - Published: 2016-03-01
+            - Downloaded: 2016-03-01
     - `us/`
         - `ca/`
             - `ca-confirmed-cases-2016-01-29.pdf`
