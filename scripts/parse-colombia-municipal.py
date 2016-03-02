@@ -48,6 +48,7 @@ def parse(pdf):
     data = data.drop_duplicates().reset_index(drop=True)
     data[INT_COLS] = data[INT_COLS].astype(int)
     data["department"] = data["department"].str.strip().str.upper().apply(lambda x: DEPT_FIXES.get(x, x))
+    data["sivigila_code"] = data["sivigila_code"].str.strip()
     data["municipality"] = data["municipality"].str.strip().str.upper().apply(lambda x: MUNI_FIXES.get(x, x))
 
     sums = data[INT_COLS].sum(axis=1)
