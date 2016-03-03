@@ -63,14 +63,18 @@
                 - Description: Countries and territories with local Zika virus transmission.
     - `raw/`
         - `paho-who/`
-            - `paho-who-cases-reported-latest.tsv`
-                - Source: `http://ais.paho.org/phip/viz/ed_zika_epicurve.asp`
-                - Description: "Suspected and confirmed Zika cases reported by countries and territories in the Americas, 2015-2016" / "Updated as of 25 February 2016, with data received by 24 February 2016"
-                - Downloaded: 2016-02-29
             - `paho-who-cases-reported-2016-02-24.tsv`
                 - Source: `http://ais.paho.org/phip/viz/ed_zika_epicurve.asp`
                 - Description: "Suspected and confirmed Zika cases reported by countries and territories in the Americas, 2015-2016" / "Updated as of 25 February 2016, with data received by 24 February 2016"
                 - Downloaded: 2016-02-29
+            - `paho-who-cases-reported-2016-03-02.csv`
+                - Source: `http://ais.paho.org/phip/viz/ed_zika_epicurve.asp`
+                - Description: "Suspected and confirmed Zika cases reported by countries and territories in the Americas, 2015-2016" / "Updated as of 3 March 2016, with data received by 2 March 2016"
+                - Downloaded: 2016-03-03
+            - `paho-who-cases-reported-latest.csv`
+                - Source: `http://ais.paho.org/phip/viz/ed_zika_epicurve.asp`
+                - Description: "Suspected and confirmed Zika cases reported by countries and territories in the Americas, 2015-2016" / "Updated as of 3 March 2016, with data received by 2 March 2016"
+                - Downloaded: 2016-03-03
 - `pdfs/`
     - `brazil/`
         - `brazil-microcephaly-2015-11-21.pdf`
