@@ -26,6 +26,9 @@
             - `cdc-state-case-counts-2016-02-24.csv`
                 - Source: `http://www.cdc.gov/zika/geo/united-states.html`
                 - Description: "Laboratory-confirmed Zika virus disease cases reported to ArboNET by state or territory — United States, 2015–2016 (as of February 24, 2016)"
+            - `cdc-state-case-counts-2016-03-02.csv`
+                - Source: `http://www.cdc.gov/zika/geo/united-states.html`
+                - Description: "Laboratory-confirmed Zika virus disease cases reported to ArboNET by state or territory — United States, 2015–2016 (as of March 2, 2016)"
             - `cdc-state-case-counts-latest.csv`
                 - Source: `http://www.cdc.gov/zika/geo/united-states.html`
                 - Description: "Laboratory-confirmed Zika virus disease cases reported to ArboNET by state or territory — United States, 2015–2016" — most recent archived/available.
