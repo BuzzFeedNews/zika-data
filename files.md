@@ -153,6 +153,10 @@
             - Source: http://www.ins.gov.co/Noticias/ZIKA/reporte%20zika-03.pdf
             - Published: 2016-02-05
             - Downloaded: 2016-02-05
+        - `colombia-extracto-2016-02-27.pdf`
+            - Source: http://www.ins.gov.co/Noticias/ZIKA/Extracto%20ZIKA%20semana%20epidemiol%C3%B3gica%2008.pdf
+            - Published: 2016-03-08
+            - Downloaded: 2016-03-08
         - `colombia-municipal-2016-01-09.pdf`
             - Source: http://www.ins.gov.co/Noticias/ZIKA/CONTEO%20CASOS%20ZIKA%20MUNICIPIOS%20SE%2001%202016.pdf
             - Published: 2016-01-29
