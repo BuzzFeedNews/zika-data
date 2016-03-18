@@ -10,6 +10,7 @@ This repository contains data — and pointers to data — related to the 2015�
 - [Country-Specific Data](#country-specific-data)
     - [Brazil](#brazil)
     - [Colombia](#colombia)
+    - [Dominican Republic](#dominican-republic)
     - [El Salvador](#el-salvador)
     - [Mexico](#mexico)
     - [United States](#united-states)
@@ -50,6 +51,10 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 #### Colombia
 
 - Colombia's national institute of health is publishing [weekly Zika-related reports](http://www.ins.gov.co/Noticias/ZIKA/Forms/AllItems.aspx).
+
+#### Dominican Republic
+
+- The Dominican Republic's Ministry of Public Health is publishing [Zika data in its weekly epidemiological bulletins](http://digepisalud.gob.do/documentos/?drawer=Boletines%20epidemiol%C3%B3gicos*Boletines%20semanales*2016).
 
 #### El Salvador
 
