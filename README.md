@@ -16,7 +16,7 @@ This repository contains data — and pointers to data — related to the 2015�
     - [United States](#united-states)
 - [Additional Resources](#additional-resources)
 
-This repository also contains [archived PDFs](pdfs/) and [data extracted from the resources below](data/parsed). For a full list of files, [see `files.md`](files.md).
+This repository also contains [archived PDFs](pdfs/) and [data extracted from the resources below](data/).
 
 ## Global Data
 
