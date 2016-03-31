@@ -12,6 +12,7 @@ This repository contains data — and pointers to data — related to the 2015�
     - [Colombia](#colombia)
     - [Dominican Republic](#dominican-republic)
     - [El Salvador](#el-salvador)
+    - [Guatemala](#guatemala)
     - [Haiti](#haiti)
     - [Mexico](#mexico)
     - [United States](#united-states)
@@ -60,6 +61,10 @@ This repository also contains [archived PDFs](pdfs/) and [data extracted from th
 #### El Salvador
 
 - El Salvador's Ministry of Health is publishing [Zika data in its weekly bulletins](http://www.salud.gob.sv/documentos-institucionales/). (Click on "Boletines Epidemiológicos 2016..." in the middle of the page.)
+
+#### Guatemala
+
+- Guatemala's Ministry of Health is publishing [Zika data on its website](http://epidemiologia.mspas.gob.gt/index.php/dos/salas-situacionales/vigilancia-epidemiologica). (See "Salas situacionales" at the bottom of the page.)
 
 #### Haiti
 
