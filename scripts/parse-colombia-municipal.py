@@ -29,18 +29,23 @@ COLUMNS = [
     "municipality"
 ] + INT_COLS
 
+def reject_nondata_chars(obj):
+    if obj["object_type"] != "char": return True
+    if (obj["size"] <= 6) and ("bold" not in obj["fontname"].lower()):
+        return True
+    return False
+
 def parse(pdf):
-    chars = pd.DataFrame(pdf.chars)
+    table = []
+    for page in pdf.pages:
+        filtered = page.filter(reject_nondata_chars)
+        if len(filtered.chars) == 0: continue
+        tops = [ c["top"] for c in filtered.chars ]
+        cropped = filtered.crop((0, min(tops) - 2, filtered.width, max(tops) + 6))
+        rows = cropped.extract_table(x_tolerance=1, y_tolerance=1)
+        table += rows
 
-    data_chars = chars[
-        ((chars["fontname"] == "ABCDEE+Calibri") &
-        (chars["size"] == 6)) |
-        ((chars["fontname"] == "Arial") &
-        (chars["size"] == 5.628))
-    ].copy()
-
-    data = pdfplumber.utils.extract_columns(data_chars, x_tolerance=1, y_tolerance=1)
-
+    data = pd.DataFrame(table)
     if len(data.columns) == 6:
         data.columns = COLUMNS
     else:
@@ -58,11 +63,7 @@ def parse(pdf):
 
 if __name__ == "__main__":
     import sys
-    if hasattr(sys.stdin, "buffer"):
-        buf = sys.stdin.buffer
-    else:
-        buf = sys.stdin
-    pdf = pdfplumber.load(buf)
-    data = parse(pdf)
-    data.to_csv(sys.stdout, index=False, encoding="utf-8")
+    with pdfplumber.open(sys.argv[1]) as pdf:
+        data = parse(pdf)
+        data.to_csv(sys.stdout, index=False, encoding="utf-8")
     
