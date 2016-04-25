@@ -1,49 +1,46 @@
-country,affected_past_nine_months,affected_past_two_months
-American Samoa,Yes,Increasing or widespread transmission
-Aruba,Yes,Sporadic transmission
-Barbados,Yes,Increasing or widespread transmission
-Bolivia,Yes,Increasing or widespread transmission
-Brazil,Yes,Increasing or widespread transmission
-Bonaire,Yes,Sporadic transmission
-Cape Verde,Yes,Increasing or widespread transmission
-Colombia,Yes,Increasing or widespread transmission
-Cuba,Yes,Sporadic transmission
-Costa Rica,Yes,Increasing or widespread transmission
-Curaçao,Yes,Increasing or widespread transmission
-Dominica,Yes,Sporadic transmission
-Dominican Republic,Yes,Increasing or widespread transmission
-Ecuador,Yes,Increasing or widespread transmission
-El Salvador,Yes,Increasing or widespread transmission
-Fiji,Yes,Increasing or widespread transmission
-French Guiana,Yes,Increasing or widespread transmission
-Guadeloupe,Yes,Increasing or widespread transmission
-Guatemala,Yes,Increasing or widespread transmission
-Guyana,Yes,Increasing or widespread transmission
-Haiti,Yes,Increasing or widespread transmission
-Honduras,Yes,Increasing or widespread transmission
-Jamaica,Yes,Sporadic transmission
-Kosrae,Yes,Sporadic transmission
-Marshall Islands,Yes,Increasing or widespread transmission
-Martinique,Yes,Increasing or widespread transmission
-Mexico,Yes,Increasing or widespread transmission
-New Caledonia,Yes,Sporadic transmission
-Nicaragua,Yes,Increasing or widespread transmission
-Panama,Yes,Increasing or widespread transmission
-Papua New Guinea,Yes,Sporadic transmission
-Paraguay,Yes,Increasing or widespread transmission
-Philippines,Yes,Sporadic transmission
-Puerto Rico,Yes,Increasing or widespread transmission
-Saint Martin,Yes,Increasing or widespread transmission
-Saint Vincent and the Grenadines,Yes,Sporadic transmission
-Samoa,Yes,Increasing or widespread transmission
-​Saint Lucia,​Yes,​Sporadic transmission
-Sint Maarten,Yes,Sporadic transmission
-Solomon Islands,Yes,No
-Suriname,Yes,Increasing or widespread transmission
-Thailand,Yes,No
-Tonga,Yes,Increasing or widespread transmission
-Trinidad and Tobago,Yes,Increasing or widespread transmission
-Vanuatu,Yes,No
-Venezuela,Yes,Increasing or widespread transmission
-Viet Nam,Yes,Increasing or widespread transmission
-US Virgin Islands,Yes,Increasing or widespread transmission
+country,current_zika_transmission
+American Samoa,Increasing or widespread transmission
+Aruba,Increasing or widespread transmission
+Barbados,Increasing or widespread transmission
+Belize,Sporadic transmission
+Bolivia,Increasing or widespread transmission
+Bonaire,Sporadic transmission
+Brazil,Increasing or widespread transmission
+Cape Verde,Increasing or widespread transmission
+Colombia,Increasing or widespread transmission
+Costa Rica,Increasing or widespread transmission
+Cuba,Sporadic transmission
+Curaçao,Increasing or widespread transmission
+Dominica,Sporadic transmission
+Dominican Republic,Increasing or widespread transmission
+Ecuador,Increasing or widespread transmission
+El Salvador,Increasing or widespread transmission
+Fiji,Increasing or widespread transmission
+French Guiana,Increasing or widespread transmission
+Guadeloupe,Increasing or widespread transmission
+Guatemala,Increasing or widespread transmission
+Guyana,Increasing or widespread transmission
+Haiti,Increasing or widespread transmission
+Honduras,Increasing or widespread transmission
+Jamaica,Sporadic transmission
+Kosrae,Sporadic transmission
+Marshall Islands,Increasing or widespread transmission
+Martinique,Increasing or widespread transmission
+Mexico,Increasing or widespread transmission
+New Caledonia,Sporadic transmission
+Nicaragua,Increasing or widespread transmission
+Panama,Increasing or widespread transmission
+Papua New Guinea,Sporadic transmission
+Philippines,Sporadic transmission
+Puerto Rico,Increasing or widespread transmission
+Saint Lucia,Sporadic transmission
+Saint Martin,Increasing or widespread transmission
+Saint Vincent and the Grenadines,Sporadic transmission
+Samoa,Increasing or widespread transmission
+Sint Maarten,Sporadic transmission
+Suriname,Increasing or widespread transmission
+Tonga,Increasing or widespread transmission
+Trinidad and Tobago,Increasing or widespread transmission
+US Virgin Islands,Increasing or widespread transmission
+Venezuela,Increasing or widespread transmission
+Viet Nam,Increasing or widespread transmission
