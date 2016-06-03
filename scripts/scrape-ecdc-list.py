@@ -14,7 +14,7 @@ columns = [
 def scrape():
     html = requests.get(URL).content
     dom = lxml.html.fromstring(html)
-    table = dom.cssselect(".ms-rteTable-1")[0]
+    table = dom.cssselect(".ms-rteTable-1")[-1]
     rows = table.cssselect("tr")[1:]
     data = [ [ td.text_content().strip()
         for td in tr.cssselect("td, th") ]
