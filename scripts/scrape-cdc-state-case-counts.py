@@ -30,7 +30,8 @@ def scrape():
         if sum(len(x) != 0 for x in c) == 3 ]
 
     df = pd.DataFrame(data, columns=COLS)
-    df[INT_COLS] = df[INT_COLS].astype(int)
+    for c in INT_COLS:
+        df[c] = df[c].str.replace(",", "").astype(int)
 
     return df
 
