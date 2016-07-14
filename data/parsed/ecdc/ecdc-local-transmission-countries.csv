@@ -1,12 +1,11 @@
 country,current_zika_transmission
 American Samoa,Widespread transmission
-Anguilla,Sporadic transmission
 Argentina,Widespread transmission
 Aruba,Widespread transmission
 Barbados,Widespread transmission
 Belize,Widespread transmission
 Bolivia,Widespread transmission
-Bonaire,Sporadic transmission
+Bonaire,Widespread transmission
 Brazil,Widespread transmission
 Cape Verde,Widespread transmission
 Colombia,Widespread transmission
@@ -18,14 +17,11 @@ Ecuador,Widespread transmission
 El Salvador,Widespread transmission
 Fiji,Widespread transmission
 French Guiana,Widespread transmission
-Grenada,Sporadic transmission
 Guadeloupe,Widespread transmission
 Guatemala,Widespread transmission
 Haiti,Widespread transmission
 Honduras,Widespread transmission
-Indonesia,Sporadic transmission
 Jamaica,Widespread transmission
-Marshall Islands,Widespread transmission
 Martinique,Widespread transmission
 Mexico,Widespread transmission
 "Micronesia, Federated States of",Widespread transmission
@@ -33,7 +29,6 @@ Nicaragua,Widespread transmission
 Panama,Widespread transmission
 Paraguay,Widespread transmission
 Peru,Widespread transmission
-Philippines,Sporadic transmission
 Puerto Rico,Widespread transmission
 Saint Lucia,Widespread transmission
 Saint Martin,Widespread transmission
@@ -47,4 +42,9 @@ Tonga,Widespread transmission
 Trinidad and Tobago,Widespread transmission
 US Virgin Islands,Widespread transmission
 Venezuela,Widespread transmission
-Vietnam,Widespread transmission
+Anguilla,Sporadic transmission
+Grenada,Sporadic transmission
+​Guinea-Bissau,​Sporadic transmission
+Indonesia,Sporadic transmission
+Philippines,Sporadic transmission
+Sint Eustatius,Sporadic transmission
