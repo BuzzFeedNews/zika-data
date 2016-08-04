@@ -8,6 +8,7 @@ URL = "http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/
 
 columns = [
     "country",
+    "areas",
     "current_zika_transmission",
 ]
 
