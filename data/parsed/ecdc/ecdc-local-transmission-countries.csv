@@ -1,7 +1,6 @@
 country,areas,current_zika_transmission
 American Samoa,,Widespread transmission
 Argentina,Tucumán Province,Widespread transmission
-Aruba,,Widespread transmission
 Barbados,,Widespread transmission
 Belize,,Widespread transmission
 Bolivia,,Widespread transmission
@@ -42,9 +41,12 @@ Tonga,,Widespread transmission
 Trinidad and Tobago,,Widespread transmission
 US Virgin Islands,,Widespread transmission
 Venezuela,,Widespread transmission
-​​United States of America,​Florida (Miami-Dade and Broward counties),Widespread transmission
+​​United States of America,​Florida (Miami-Dade county),Widespread transmission
+​​​United States of America,"​Florida (Broward, Palm Beach and Pinellas  counties)",​Sporadic transmission
 Antigua and Barbuda,,Sporadic transmission
 Anguilla,,Sporadic transmission
+​Bahamas,​,​Sporadic transmission
+​British Virgin Island (UK),​,​Sporadic transmission
 ​Cayman Islands,​,​Sporadic transmission
 ​Cuba,​,​Sporadic transmission
 Grenada,,Sporadic transmission
