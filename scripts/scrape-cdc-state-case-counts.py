@@ -31,7 +31,7 @@ def scrape():
 
     df = pd.DataFrame(data, columns=COLS)
     for c in INT_COLS:
-        df[c] = df[c].str.replace(",", "").astype(int)
+        df[c] = df[c].str.replace(",", "").str.strip("*").astype(int)
 
     return df
 
