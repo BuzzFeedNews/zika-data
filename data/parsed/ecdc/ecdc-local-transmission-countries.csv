@@ -1,7 +1,9 @@
 country,areas,current_zika_transmission
 American Samoa,,Widespread transmission
+Angola,,Sporadic transmission
 Anguilla,,Widespread transmission
 Antigua and Barbuda,,Widespread transmission
+Argentina,Tucuman,Historical Zika virus circulation
 Aruba,,Widespread transmission
 Bahamas,,Widespread transmission
 Barbados,,Widespread transmission
@@ -9,11 +11,12 @@ Belize,,Widespread transmission
 Bolivia,,Widespread transmission
 Bonaire,,Widespread transmission
 Brazil,,Widespread transmission
-British Virgin Islands (UK),Widespread transmission,
+British Virgin Islands (UK),Widespread transmission,
+Cape Verde,,No
 Cayman Islands,,Widespread transmission
 Colombia,,Widespread transmission
 Costa Rica,,Widespread transmission
-Cuba,,Widespread transmission
+Cuba,,Widespread transmission
 Curaçao,,Widespread transmission
 Dominica,,Widespread transmission
 Dominican Republic,,Widespread transmission
@@ -24,36 +27,47 @@ French Guiana,,Widespread transmission
 Grenada,,Widespread transmission
 Guadeloupe,,Widespread transmission
 Guatemala,,Widespread transmission
-​Guyana,​,​Widespread transmission
+Guinea-Bissau,,No
+Guyana,,Widespread transmission
 Haiti,,Widespread transmission
 Honduras,,Widespread transmission
+Indonesia,,No
 Jamaica,,Widespread transmission
 Malaysia,,Widespread transmission
-​Maldives,​,​Sporadic transmission
+Maldives,,Sporadic transmission
 Martinique,,Widespread transmission
 Mexico,,Widespread transmission
 "Micronesia, Federated States of",Widespread transmission,
-​Montserrat,​Sporadic transmission,
+Montserrat,,Sporadic transmission
+New Caledonia,,No
 Nicaragua,,Widespread transmission
-​Palau,​,​Sporadic transmission
+Palau,,Sporadic transmission
 Panama,,Widespread transmission
 Paraguay,,Widespread transmission
 Peru,,Widespread transmission
 Philippines,,Widespread transmission
 Puerto Rico,,Widespread transmission
+Saba,,Historical Zika virus circulation
 Saint Kitts and Nevis,,Widespread transmission
 Saint Lucia,,Widespread transmission
 Saint Martin,,Widespread transmission
+Saint Vincent and the Grenadines,Widespread transmission,
 Saint-Barthélemy,,Widespread transmission
-​Saint Vincent and the Grenadines,​,​Widespread transmission
+Samoa,,No
 Singapore,,Widespread transmission
+Sint Eustatius,,Historical Zika virus circulation
 Sint Maarten,,Widespread transmission
+Solomon Islands,,No
 Suriname,,Widespread transmission
 Thailand,,Widespread transmission
+Tonga,,No
 Trinidad and Tobago,,Widespread transmission
-​Turks and Caicos,​,​Widespread transmission
+Turks and Caicos Islands,Widespread transmission,
 United States of America,Miami-Dade,Widespread transmission
-​United States of America,​Cameron County,​Sporadic transmission
+United States of America,Broward,Historical Zika virus circulation
+United States of America,Palm Beach,Historical Zika virus circulation
+United States of America,Cameron,Sporadic transmission
 US Virgin Islands,,Widespread transmission
 Venezuela,,Widespread transmission
 Vietnam,,Widespread transmission
+United States of America,Pinellas,Historical Zika virus circulation
