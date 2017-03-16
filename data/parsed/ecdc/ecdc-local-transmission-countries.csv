@@ -1,9 +1,11 @@
 country,areas,current_zika_transmission
-American Samoa,,Widespread transmission
+American Samoa,,Past transmission
 Angola,,Sporadic transmission
 Anguilla,,Widespread transmission
 Antigua and Barbuda,,Widespread transmission
-Argentina,Tucuman,Past transmission
+Argentina,​Formosa Province,Sporadic transmission
+​Argentina,​Salta Province,​Sporadic transmission
+​Argentina,​Tucuman,​Past transmission
 Aruba,,Widespread transmission
 Bahamas,,Widespread transmission
 Barbados,,Widespread transmission
@@ -31,13 +33,12 @@ Guinea-Bissau,,Past transmission
 Guyana,,Widespread transmission
 Haiti,,Past transmission
 Honduras,,Widespread transmission
-Indonesia,,Past transmission
 Jamaica,,Widespread transmission
 Malaysia,,Widespread transmission
 Maldives,,Sporadic transmission
 Martinique,,Widespread transmission
 Mexico,,Widespread transmission
-"Micronesia, Federated States of",,Widespread transmission
+"Micronesia, Federated States of",,Past transmission
 Montserrat,,Sporadic transmission
 New Caledonia,,Past transmission
 Nicaragua,,Widespread transmission
@@ -60,7 +61,6 @@ Sint Maarten,,Widespread transmission
 Solomon Islands,,Past transmission
 Suriname,,Widespread transmission
 Thailand,,Widespread transmission
-Tonga,,Past transmission
 Trinidad and Tobago,,Past transmission
 Turks and Caicos Islands,,Widespread transmission
 United States of America,Miami-Dade,Widespread transmission
