@@ -1,73 +1,192 @@
 country,areas,current_zika_transmission
-American Samoa,,Past transmission
-Angola,,Sporadic transmission
-Anguilla,,Widespread transmission
-Antigua and Barbuda,,Widespread transmission
-Argentina,​Formosa Province,Sporadic transmission
-​Argentina,​Salta Province,​Sporadic transmission
-​Argentina,​Tucuman,​Past transmission
-Aruba,,Widespread transmission
-Bahamas,,Widespread transmission
-Barbados,,Widespread transmission
-Belize,,Widespread transmission
-Bolivia,,Widespread transmission
-Bonaire,,Widespread transmission
-Brazil,,Widespread transmission
-British Virgin Islands (UK),,Widespread transmission
-Cape Verde,,Past transmission
-Cayman Islands,,Widespread transmission
-Colombia,,Widespread transmission
-Costa Rica,,Widespread transmission
-Cuba,,Widespread transmission
-Curaçao,,Widespread transmission
-Dominica,,Past transmission
-Dominican Republic,,Widespread transmission
-Ecuador,,Widespread transmission
-El Salvador,,Widespread transmission
-Fiji,,Past transmission
-French Guiana,,Widespread transmission
-Grenada,,Widespread transmission
-Guadeloupe,,Widespread transmission
-Guatemala,,Widespread transmission
-Guinea-Bissau,,Past transmission
-Guyana,,Widespread transmission
-Haiti,,Past transmission
-Honduras,,Widespread transmission
-Jamaica,,Widespread transmission
-Malaysia,,Widespread transmission
-Maldives,,Sporadic transmission
-Martinique,,Widespread transmission
-Mexico,,Widespread transmission
-"Micronesia, Federated States of",,Past transmission
-Montserrat,,Sporadic transmission
-New Caledonia,,Past transmission
-Nicaragua,,Widespread transmission
-Palau,,Past transmission
-Panama,,Widespread transmission
-Paraguay,,Widespread transmission
-Peru,,Widespread transmission
-Philippines,,Widespread transmission
-Puerto Rico,,Widespread transmission
-Saba,,Past transmission
-Saint Kitts and Nevis,,Widespread transmission
-Saint Lucia,,Past transmission
-Saint Martin,,Widespread transmission
-Saint Vincent and the Grenadines,,Widespread transmission
-Saint-Barthélemy,,Widespread transmission
-Samoa,,Past transmission
-Singapore,,Widespread transmission
-Sint Eustatius,,Past transmission
-Sint Maarten,,Widespread transmission
-Solomon Islands,,Past transmission
-Suriname,,Widespread transmission
-Thailand,,Widespread transmission
-Trinidad and Tobago,,Past transmission
-Turks and Caicos Islands,,Widespread transmission
-United States of America,Miami-Dade,Widespread transmission
-United States of America,Broward,Past transmission
-United States of America,Palm Beach,Past transmission
-United States of America,Cameron,Sporadic transmission
-US Virgin Islands,,Widespread transmission
-Venezuela,,Widespread transmission
-Vietnam,,Widespread transmission
-United States of America,Pinellas,Past transmission
+American Samoa,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Angola,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Anguilla,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Antigua and Barbuda,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Argentina,Argentina,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Argentina,Tucuman,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Argentina,Formosa,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Argentina,Salta,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Aruba,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Bahamas,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Bangladesh,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Barbados,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Belize,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Bolivia,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+"Bonaire, Sint Eustatius and Saba",Bonaire,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+"Bonaire, Sint Eustatius and Saba",Saba,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+"Bonaire, Sint Eustatius and Saba",Sint Eustatius,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Rio De Janeiro,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Maranhao,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Bahia,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Rio Grande Do Norte,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Alagoas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Amazonas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Ceara,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Espirito Santo,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Mato Grosso,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Para,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Paraiba,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Parana,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Pernambuco,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Rondonia,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Roraima,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Sao Paulo,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Tocantins,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Piaui,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Goias,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Rio Grande Do Sul,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Acre,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Distrito Federal,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Mato Grosso Do Sul,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Minas Gerais,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Santa Catarina,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Sergipe,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Amapa,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Brazil,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+British Virgin Islands,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Burkina Faso,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Burundi,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Cambodia,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Cameroon,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Cape Verde,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Cayman Islands,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Central African Republic,Areas with virus transmission following previous virus circulation (WHO cat. 2),
+Chile,Easter Island,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Colombia,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Cook Islands,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Costa Rica,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Côte d'Ivoire,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Cuba,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Curaçao,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Dominica,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Dominican Republic,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Ecuador,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+El Salvador,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Fiji,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+France,Martinique,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+France,Guyane,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Gabon,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Grenada,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Guadeloupe,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Guatemala,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Guinea-Bissau,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Guyana,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Haiti,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Honduras,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Indonesia,Indonesia,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Indonesia,Nangroe Aceh Darussalam,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Bali,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Bengkulu,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Daerah Istimewa Yogyakarta,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Dki Jakarta,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Jambi,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Jawa Tengah,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Jawa Timur,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Kalimantan Barat,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Kalimantan Selatan,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Kalimantan Tengah,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Kalimantan Timur,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Lampung,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Nusatenggara Barat,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Nusatenggara Timur,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sulawesi Tengah,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sulawesi Tenggara,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sumatera Barat,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sumatera Utara,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Bangka Belitung,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Banten,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Gorontalo,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Papua Barat,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Jawa Barat,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Kepulauan-riau,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Maluku,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Maluku Utara,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Papua,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Riau,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sulawesi Barat,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sulawesi Selatan,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sulawesi Utara,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Indonesia,Sumatera Selatan,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Jamaica,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Lao People's Democratic Republic,Areas with virus transmission following previous virus circulation (WHO cat. 2),
+Malaysia,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Maldives,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Marshall Islands,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Nuevo Leon,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Jalisco,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Oaxaca,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Sinaloa,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Guerrero,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Chiapas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Veracruz,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Yucatan,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Nayarit,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Tabasco,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Michoacan,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Quintana Roo,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Colima,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Morelos,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Hidalgo,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Tamaulipas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,San Luis Potosi,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Coahuila,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Puebla,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Campeche,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Sonora,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Aguascalientes,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Baja California Sur,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Zacatecas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Baja California,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Mexico,Mexico,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Micronesia,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Montserrat,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Nicaragua,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Nigeria,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Palau,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Panama,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Papua New Guinea,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Paraguay,Amambay,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Central,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Alto Parana,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Paraguari,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Boqueron,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Caaguazu,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Caazapa,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Canindeyu,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Guaira,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Itapua,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Misiones,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Neembucu,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,San Pedro,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Concepcion,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Paraguay,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Paraguay,Cordillera,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Peru,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Philippines,,WHO cat. 2 areas with new documented intense transmission
+Puerto Rico,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Saint Barthelemy,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Saint Kitts and Nevis,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Saint Lucia,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Saint Martin,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Saint Vincent and the Grenadines,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Samoa,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Senegal,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Singapore,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Sint Maarten,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Solomon Islands,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Suriname,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Thailand,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+Tonga,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Trinidad and Tobago,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Turks and Caicos islands,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
+Uganda,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
+United States of America,Miami-dade,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+United States of America,Broward,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+United States of America,Cameron,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+United States of America,Palm Beach,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+United States of America,United States of America,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+United States Virgin Islands,United States Virgin Islands,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Vanuatu,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Venezuela,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Vietnam,,WHO cat. 2 areas with new documented intense transmission
