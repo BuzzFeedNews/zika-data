@@ -1,5 +1,5 @@
 country,areas,current_zika_transmission
-American Samoa,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+American Samoa,,Areas with interrupted transmission (WHO cat. 3)
 Angola,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Anguilla,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Antigua and Barbuda,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
@@ -7,6 +7,7 @@ Argentina,Argentina,Areas with virus transmission following virus new/re introdu
 Argentina,Tucuman,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Argentina,Formosa,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Argentina,Salta,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+​Argentina,​Chaco,​Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Aruba,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Bahamas,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Bangladesh,,Areas with virus transmission following previous virus circulation (WHO cat. 2)
@@ -18,7 +19,7 @@ Bolivia,,Areas with virus transmission following virus new/re introduction (WHO 
 "Bonaire, Sint Eustatius and Saba",Sint Eustatius,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Brazil,Rio De Janeiro,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Brazil,Maranhao,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
-Brazil,Bahia,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Bahia,WHO cat. 2 areas with new documented intense transmission
 Brazil,Rio Grande Do Norte,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Brazil,Alagoas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Brazil,Amazonas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
