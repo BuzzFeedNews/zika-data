@@ -7,7 +7,7 @@ import sys
 
 URL = "http://www.cdc.gov/zika/geo/united-states.html"
 
-INT_COLS = [ "travel_associated_cases", "locally_acquired_cases" ]
+INT_COLS = [ "symptomatic_disease_cases" , "presumptive_viremic_blood_donors" ]
 COLS = [ "state_or_territory" ] + INT_COLS
 
 paren_pat = re.compile(r"\([^\)]+\)") 
