@@ -5,7 +5,7 @@ import pandas as pd
 import re
 import sys
 
-URL = "http://www.cdc.gov/zika/geo/united-states.html"
+URL = "https://www.cdc.gov/zika/reporting/2017-case-counts.html"
 
 INT_COLS = [ "symptomatic_disease_cases" , "presumptive_viremic_blood_donors" ]
 COLS = [ "state_or_territory" ] + INT_COLS
@@ -20,14 +20,14 @@ def scrape():
     dom = lxml.html.fromstring(html)
 
     table = dom.cssselect("table")[0]
-    rows = table.cssselect("tr")
+    trs = table.cssselect("tr")
 
-    cells = [ [ parse_cell(td.text_content())
-        for td in tr.cssselect("td") ] 
-             for tr in rows ]
+    rows = [ [ parse_cell(td.text_content())
+        for td in tr.cssselect("td:nth-child(1), td:nth-child(2), td:nth-child(4)") ] 
+             for tr in trs ]
 
-    data = [ c for c in cells 
-        if sum(len(x) != 0 for x in c) == 3 ]
+    data = [ row for row in rows[1:]
+        if not row[0] in [ "", "States", "Territories" ] ]
 
     df = pd.DataFrame(data, columns=COLS)
     for c in INT_COLS:
