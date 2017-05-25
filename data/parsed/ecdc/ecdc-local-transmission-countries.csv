@@ -17,8 +17,9 @@ Bolivia,,Areas with virus transmission following virus new/re introduction (WHO 
 "Bonaire, Sint Eustatius and Saba",Bonaire,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 "Bonaire, Sint Eustatius and Saba",Saba,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 "Bonaire, Sint Eustatius and Saba",Sint Eustatius,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
-Brazil,Rio De Janeiro,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
-Brazil,Maranhao,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Brazil,Rio De Janeiro,"Areas
+with new documented intense transmission (WHO cat.2)"
+Brazil,Maranhao,Areas with new documented intense transmission​ (WHO cat.2)
 Brazil,Bahia,WHO cat. 2 areas with new documented intense transmission
 Brazil,Rio Grande Do Norte,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Brazil,Alagoas,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
@@ -166,7 +167,7 @@ Paraguay,Cordillera,Areas with virus transmission following virus new/re introdu
 Peru,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Philippines,,WHO cat. 2 areas with new documented intense transmission
 Puerto Rico,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
-Saint Barthelemy,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Saint Barthelemy,,Areas with interrupted transmission (WHO cat. 3)​
 Saint Kitts and Nevis,Areas with virus transmission following virus new/re introduction (WHO cat. 1),
 Saint Lucia,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Saint Martin,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
@@ -188,6 +189,6 @@ United States of America,Cameron,Areas with virus transmission following virus n
 United States of America,Palm Beach,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 United States of America,United States of America,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 United States Virgin Islands,United States Virgin Islands,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
-Vanuatu,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
+Vanuatu,,Areas with interrupted transmission (WHO cat. 3)
 Venezuela,,Areas with virus transmission following virus new/re introduction (WHO cat. 1)
 Vietnam,,WHO cat. 2 areas with new documented intense transmission
