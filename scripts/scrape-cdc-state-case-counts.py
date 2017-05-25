@@ -4,6 +4,7 @@ import lxml.html
 import pandas as pd
 import re
 import sys
+import random
 
 URL = "https://www.cdc.gov/zika/reporting/2017-case-counts.html"
 
@@ -16,7 +17,9 @@ def parse_cell(text):
     return re.sub(paren_pat, "", text).strip()
 
 def scrape():
-    html = requests.get(URL).content
+    html = requests.get(URL, params={
+        "_": random.random()
+    }).content
     dom = lxml.html.fromstring(html)
 
     table = dom.cssselect("table")[0]
