@@ -3,14 +3,14 @@ Alabama,3,0
 Alaska,1,0
 Arizona,1,0
 Arkansas,0,0
-California,14,1
+California,13,1
 Colorado,3,0
 Connecticut,0,0
 Delaware,0,0
 District of Columbia,0,0
 Florida,15,3
 Georgia,1,0
-Hawaii,1,0
+Hawaii,0,0
 Idaho,0,0
 Illinois,4,0
 Indiana,1,0
@@ -47,9 +47,9 @@ Utah,0,0
 Vermont,2,0
 Virginia,3,0
 Washington,2,0
-West Virginia,0,1
+West Virginia,0,2
 Wisconsin,2,0
 Wyoming,0,0
 American Samoa,3,0
-Puerto Rico,462,3
-U.S. Virgin Islands,37,0
+Puerto Rico,460,3
+U.S. Virgin Islands,36,0
