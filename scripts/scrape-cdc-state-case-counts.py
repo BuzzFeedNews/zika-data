@@ -30,7 +30,7 @@ def scrape():
              for tr in trs ]
 
     data = [ row for row in rows[1:]
-        if not row[0] in [ "", "States", "Territories" ] ]
+        if len(row) and not row[0] in [ "", "States", "Territories" ] ]
 
     df = pd.DataFrame(data, columns=COLS)
     for c in INT_COLS:
